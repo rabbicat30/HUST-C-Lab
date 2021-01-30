@@ -6,7 +6,7 @@
 
 四个实验的main函数中都自己编写了测试代码，这个测试代码其实并不严谨，不能代表所有的情况，但是实验代码是满分通过的，可以直接利用老师所给的测试文件测试（实验课上都是这样检查）。使用测试文件的代码参考如下：
 
-  extern const char* TestSTACK(int& s);
+     extern const char* TestSTACK(int& s);
   
   main函数中写：
   
