@@ -1,0 +1,4 @@
+﻿  Queue.cpp
+D:\VisualStudioFile\C++\C++实验\实验二\实验二\Queue.cpp(90,1): warning C4297: “QUEUE::print”: 假定函数不引发异常，但确实发生了
+D:\VisualStudioFile\C++\C++实验\实验二\实验二\Queue.cpp(90,1): message : 在函数上指定了 __declspec(nothrow)、throw()、noexcept(true)或 noexcept
+  实验二.vcxproj -> D:\VisualStudioFile\C++\C++实验\实验二\Debug\实验二.exe
